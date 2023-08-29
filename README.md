@@ -1,2 +1,2 @@
 # my-little-forest
-Sistema de gerenciamento de SAF
+Aplicação web para gerenciamento de Sistemas Agroflorestais - SAFs desenvolvido para a Disciplina de Estágio II (Aplicação Web)
