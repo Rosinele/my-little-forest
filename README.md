@@ -75,7 +75,8 @@ O sistema conta com:
 
 ## Configuração Ambiente
 
-
+- **Editor:** VSCode
+- **Versionamento:** Git + GitHub
 
 
 
