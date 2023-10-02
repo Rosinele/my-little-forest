@@ -86,8 +86,10 @@ O público agro inclui agricultores, pecuaristas, agrônomos, empresários do ag
 ## Configuração Ambiente
 
 - **Editor:** VSCode
+*Extensão:* Markdown Preview Enhanced
 - **Banco de dados:** MongoDB Atlas
 - **Versionamento:** Git + GitHub
+
 
 
 
