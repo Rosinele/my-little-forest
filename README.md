@@ -1,5 +1,5 @@
 
-<img src="img/logo.png" alt="drawing" width="200"/>
+<img src="img/logof.png" alt="drawing" width="200"/>
 
 # My Little Forest
 Aplicação web para gerenciamento de Sistemas Agroflorestais - SAFs desenvolvido para a Disciplina de Estágio II (Aplicação Web)
