@@ -81,11 +81,12 @@ O público agro inclui agricultores, pecuaristas, agrônomos, empresários do ag
 
 ## Arquitetura
 
-![Arquitetura](https://miro.medium.com/v2/resize:fit:550/1*TxgjUE2uJuiRUVVmE_kU6g.png)
+![Arquitetura](img/arquitm-forest.png)
 
 ## Configuração Ambiente
 
 - **Editor:** VSCode
+- **Banco de dados:** MongoDB Atlas
 - **Versionamento:** Git + GitHub
 
 
