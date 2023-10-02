@@ -1,3 +1,5 @@
+![img](img/logo.png)
+
 # My Little Forest
 Aplicação web para gerenciamento de Sistemas Agroflorestais - SAFs desenvolvido para a Disciplina de Estágio II (Aplicação Web)
 
@@ -26,6 +28,10 @@ O sistema conta com:
 
 
 ## Personas
+
+- Público agro
+
+O público agro inclui agricultores, pecuaristas, agrônomos, empresários do agronegócio, pesquisadores agrícolas, estudantes de agricultura, entre outros profissionais e interessados no campo. 
 
 |           |                             |
 |-----------|-----------------------------|
@@ -69,14 +75,21 @@ O sistema conta com:
     - US003-T002 Listar histórico de manejos cadastradas
     - US003-T003 Visualizar e Editar manejos cadastradas
 
+## Fluxo de telas
+
+![](img/dia-tela-forest.png)
+
 ## Arquitetura
 
-![Arquitetura](https://miro.medium.com/v2/resize:fit:550/1*TxgjUE2uJuiRUVVmE_kU6g.png)
+![Arquitetura](img/arquitm-forest.png)
 
 ## Configuração Ambiente
 
 - **Editor:** VSCode
+*Extensão:* Markdown Preview Enhanced
+- **Banco de dados:** MongoDB Atlas
 - **Versionamento:** Git + GitHub
+
 
 
 
