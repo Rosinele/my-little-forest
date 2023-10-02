@@ -29,6 +29,10 @@ O sistema conta com:
 
 ## Personas
 
+- Público agro
+
+O público agro inclui agricultores, pecuaristas, agrônomos, empresários do agronegócio, pesquisadores agrícolas, estudantes de agricultura, entre outros profissionais e interessados no campo. 
+
 |           |                             |
 |-----------|-----------------------------|
 |**Persona**    | Pesquisadores e Educadores  |
@@ -70,6 +74,10 @@ O sistema conta com:
     - US003-T001 Inserir novo registro de manejo
     - US003-T002 Listar histórico de manejos cadastradas
     - US003-T003 Visualizar e Editar manejos cadastradas
+
+## Fluxo de telas
+
+![](img/dia-tela-forest.png)
 
 ## Arquitetura
 
